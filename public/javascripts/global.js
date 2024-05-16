@@ -5,7 +5,7 @@ $(document).ready(function() {
   populateTrains();
 
 });
-
+// making comments in js file
 function populateTrains() {
   var trainsContent = '';
 
